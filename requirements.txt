@@ -1,4 +1,5 @@
 jax==0.2.9
+chex==0.0.3
 jaxlib==0.1.61
 torch==1.6.0
 torchvision==0.7.0
